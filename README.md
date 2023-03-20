@@ -45,3 +45,10 @@ Isso irá executar os testes em segundo plano, sem abrir a interface do usuário
 Suite de Testes - Web (Front-End):
 
 registro
+
+
+## Observações
+
+Campo languages não descobri como realizar a seleção, pois o mesmo tem uma div e não um select, uma sugestão seria o dev alterar aquele campo para o elemento correto.
+
+Campo Country não tem nenhuma opção listada para selecionar.
