@@ -11,10 +11,10 @@ describe('registro', () => {
     it('Deve registrar um usuário com sucesso', () => {
 
       const user = {
-        name: 'John',
-        lastName: 'Doe',
+        name: 'Taiana',
+        lastName: 'Miguins',
         address: 'QNM 36 Conj I cs 40',
-        email: 'john.doe@gmail.com',
+        email: 'taiana.miguins@gmail.com',
         phone: '1199999999',
         firstPass: 'pwd123',
         confirmPass: 'pwd123'
