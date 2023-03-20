@@ -11,10 +11,6 @@ O cenário consiste em criar um cadastro no sistema para utilizar os serviços d
   
   NPM (ou yarn)
 
-## Features
-Suite de Testes - Web (Front-End):
-
-registro
 
 ## Instalação
 Para instalar as dependências do projeto, execute o seguinte comando na raiz do projeto:
@@ -43,3 +39,9 @@ npm run test:headless
 ````
 
 Isso irá executar os testes em segundo plano, sem abrir a interface do usuário do Cypress.
+
+
+## Features
+Suite de Testes - Web (Front-End):
+
+registro
